@@ -20,14 +20,14 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/bg.jpg";
+// import image from "../images/bg.jpg";
 
 const imageAltText = "Home Background Image";
 
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
-      <img className="background" src={image} alt="" />
+      {/* <img className="background" src={image} alt="" /> */}
       <div style={{ position: "absolute", top: "5rem", left: "2rem", width: "17rem" }}>
         <h1>{name}</h1>
         <h2>{title}</h2>
