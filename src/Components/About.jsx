@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Passionate Computer Student with a background in back-end development and a strong understanding of front-end development. Seeking to leverage my skills in a front-end developer role.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
